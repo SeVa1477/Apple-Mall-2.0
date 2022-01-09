@@ -32,3 +32,4 @@ class InfoViewController: UIViewController {
         delegate?.update(iphone: iPhoness)
     }
 }
+// :-)
